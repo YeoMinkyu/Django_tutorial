@@ -25,3 +25,8 @@ pipenv install django==2.1
 <code>
 pipenv shell
 </code>
+
+## Start project
+<code>
+django-admin startproject project_name .
+</code>
