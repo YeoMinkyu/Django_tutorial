@@ -30,3 +30,13 @@ pipenv shell
 <code>
 django-admin startproject project_name .
 </code>
+
+## Run development server
+<code>
+python manage.py runserver
+</code>
+
+## Create admin
+<code>
+python manage.py createsuperuser
+</code>
