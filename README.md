@@ -40,3 +40,8 @@ python manage.py runserver
 <code>
 python manage.py createsuperuser
 </code>
+
+## Run test
+<code>
+python manage.py test polls
+</code>
